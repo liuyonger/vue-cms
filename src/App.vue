@@ -49,9 +49,10 @@
 
 <style lang="scss" scoped>
 .app-container{
-  	padding: 40px;
+  	padding-top: 40px;
 	padding-left: 0px;
 	padding-right: 0px; 
+	padding-bottom: 50px;
 	overflow-x: hidden;
 }
 
